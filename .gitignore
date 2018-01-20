@@ -6,6 +6,10 @@ links.json
 quizconfig.json
 channel.txt
 
+# Generated Files
+
+_roles.json
+
 *.old
 *.bat
 *.swp
