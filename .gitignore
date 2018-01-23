@@ -10,6 +10,10 @@ channel.txt
 
 _roles.json
 
+# Logs Folder
+
+logs/
+
 *.old
 *.bat
 *.swp
